@@ -22,6 +22,10 @@ Create a web application that uses machine learning to analyze chest X-rays, det
 - Frontend: React.js, Bootstrap
 
 ## Team Roles: 
+- Machine Learning Engineers: 
+- Data Specialist: 
+- Backend Developer:
+- Frontend Developers:
 
 ## Step Plan:
 	1. 
