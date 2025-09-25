@@ -130,10 +130,10 @@ Week 12: Final Presentation
 
 ## Milestones:
 
-1. Baseline Model Trained (Week 4)
-2. Full-Stack Prototype (Week 7)
-3. Refined Model & Testing (Week 9)
-4. Final Presentation (Week 12)
+1. Baseline Model Trained (Goal: Week 4)
+2. Full-Stack Prototype (Goal: Week 7)
+3. Refined Model & Testing (Goal: Week 9)
+4. Final Presentation (Goal: Week 12)
 
 ## Notes:
 
