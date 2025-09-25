@@ -23,7 +23,7 @@ Create a web application that uses machine learning to analyze chest X-rays, det
 
 ## Team Roles: 
 - Machine Learning Engineers: Srikar
-- Data Specialist: Austin
+- Data Scientist: Austin
 - Backend Developer: Charles
 - Frontend Developers: Aaliyan, Shriya
 
