@@ -28,11 +28,111 @@ Create a web application that uses machine learning to analyze chest X-rays, det
 - Frontend Developers: Aaliyan, Shriya
 
 ## Step Plan:
-	1. 
-	2.  
-	3. 
+
+Week 1: Setup
+
+- Assign roles.
+
+- Set up GitHub repo.
+
+- Set up communication (iMessage/Discord).
+
+Week 2: Research & Planning
+
+- Data scientist: Identify dataset (Kaggle Pneumonia).
+
+- ML engineer: Research baseline model options.
+
+- Frontend: Create wireframes.
+
+- Backend: Plan API routes.
+
+Week 3: Data Prep
+
+- Collect dataset, clean images, normalize sizes.
+
+- Decide on train/val/test split.
+
+- Write preprocessing scripts (NumPy/Pandas/OpenCV).
+
+- Backend sets up a dummy Flask API with placeholder responses for frontend testing.
+
+Week 4: Baseline Model
+
+- Train a simple baseline CNN or use pretrained ResNet/DenseNet with transfer learning.
+
+- Evaluate initial accuracy.
+
+- Document performance results.
+
+- Frontend builds skeleton app with file upload and result placeholder.
+
+Week 5: Improved Model
+
+- Fine-tune model: hyperparameter tuning, augmentations.
+
+- Implement evaluation metrics (accuracy, precision, recall, F1).
+
+- Save/export trained model in a format Flask can load.
+
+Week 6: Backend Integration
+
+- Backend connects Flask API to the trained model.
+
+- Test local inference (upload image → model predicts → API returns result).
+
+- Frontend begins integrating with real API endpoints.
+
+Week 7: Frontend Development
+
+- Build results dashboard (prediction result, confidence score, possibly visualization).
+
+- Improve UI/UX (loading indicators, error handling).
+
+- Connect to backend for live predictions.
+
+Week 8: Model Refinement
+
+- Retrain model with improvements (regularization, dropout, learning rate tuning).
+
+- Compare results to baseline.
+
+- Keep logs for reproducibility.
+
+Week 9: System Testing
+
+- End-to-end testing: upload → prediction → display.
+
+- Check for bugs, slow response times.
+
+Week 10: Optimization
+
+- Optimize model size/speed (pruning, lighter architectures if needed).
+
+- Clean frontend and backend code.
+
+- Improve UI polish.
+
+Week 11: Final Features & Documentation
+
+- Add optional heatmap.
+
+- Write user documentation.
+
+- Prepare project presentation deck.
+
+Week 12: Final Presentation
+
+- Run demo.
+
+- Team presentation.
 
 ## Milestones:
+
+1. Baseline Model Trained (Week 4)
+2. Full-Stack Prototype (Week 7)
+3. Refined Model & Testing (Week 9)
+4. Final Presentation (Week 12)
 
 ## Notes:
 
