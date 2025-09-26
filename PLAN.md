@@ -19,14 +19,13 @@ Create a web application that uses machine learning to analyze chest X-rays, det
 
 - Backend: Python, Flask
 
-- Frontend: React.js, Bootstrap
+- Frontend: React.js, Streamlit
 
 ## Team Roles: 
 - Project Lead: Akshay Sajeev
-- Machine Learning Engineers: Srikar Vaddela
-- Data Scientist: Austin Santhakumar
-- Backend Developer: Charles Doan
-- Frontend Developers: Aaliyan Siddiqui, Shriya Peddapuram
+- Machine Learning Engineers: Srikar Vaddela, Austin Santhakumar
+- Backend Developer: Charles Doan, Shriya Peddapuram
+- Frontend Developers: Aaliyan Siddiqui, Andres Torres, Shriya Peddapuram
 
 ## Step Plan:
 
